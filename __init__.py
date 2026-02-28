@@ -1,0 +1,2 @@
+"""multiagentscraper package."""
+

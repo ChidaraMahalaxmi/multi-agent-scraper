@@ -1,0 +1,7 @@
+langgraph
+requests
+beautifulsoup4
+ollama
+lxml
+# Optional only when SCRAPE_USE_PLAYWRIGHT=1
+playwright
